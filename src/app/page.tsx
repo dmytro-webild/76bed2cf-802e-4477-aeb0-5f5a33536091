@@ -187,7 +187,7 @@ export default function LandingPage() {
           buttonAnimation="slide-up"
           textboxLayout="default"
           useInvertedBackground={false}
-          gridVariant="four-items-2x2-equal-grid"
+          gridVariant="uniform-all-items-equal"
           animationType="scale-rotate"
           metrics={[
             {
